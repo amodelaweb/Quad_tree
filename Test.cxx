@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 #include "QuadTree.h"
-/* POR JUAN CASTAÑEDA Y FELIPE CONTRERAS :D */
+/* POR SANTIAGO CHAUSTRE */
 
 QuadTree<int> cargar(std::string archivo);
 bool escribirarch(int **a , QuadTree<int> arbol);
